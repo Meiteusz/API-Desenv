@@ -1,9 +1,10 @@
 {
   "name": "API-Desenv",
   "version": "1.0.0",
-  "description": "",
+  "description": "Leaning about API's",
   "main": "index.js",
   "dependencies": {
+    "dependencies": "0.0.1",
     "next": "^11.1.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
