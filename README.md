@@ -1,5 +1,5 @@
 # API-Desenv
-Leaning about API's
+Leaning about API's with node.js
 
 # Run
 - `npm init -y`
