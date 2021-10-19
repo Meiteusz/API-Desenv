@@ -2,6 +2,6 @@
 Leaning about API's
 
 # Run
-*1:* `npm init -y`
-*2:* `npm install dependencies`
-*3:* `npm run dev`
+- `npm init -y`
+- `npm install dependencies`
+- `npm run dev`
